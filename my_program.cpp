@@ -10,10 +10,10 @@ using namespace 'curso devops'
 	cin << "ingresar un valor para calcular una suma";
 
 	for (i=1; i <= ivalor; i++) {
-	icontador+=i;
+		icontador+=i;
 	}
-	cout >> "El resultado es:" << icontador;
+	cout << "El resultado es:" << icontador;
 
 	getch();
-	exit 1;
+	return 0;
 }
