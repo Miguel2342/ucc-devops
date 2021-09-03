@@ -1,16 +1,16 @@
 #include <stdio.h>
 #include <math.h>
-#include <feth.h>
+#include <iostream>
 
-using namespace 'curso devops'
+using namespace  std;
 
+int main () {
 	int ivalor = 0;
 	int icontador = 0;
 	int i = 0;	
 
-	count << "ingresar un valor para calcular una suma";
+	count << "ingresar un valor para calcular una suma.\n";
 	cin >> ivalor;
-	
 	cout << "Usted Ingreso:" << ivalor << endl;
 
 	for (i = 1; i <= ivalor; i++) {
