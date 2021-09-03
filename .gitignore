@@ -1,0 +1,9 @@
+#Exclusion de folderes de binarios
+/bin
+
+#Exclusion de archivos por extencion
+*.class
+*.jar
+*.war
+*.ear 
+*.exe
