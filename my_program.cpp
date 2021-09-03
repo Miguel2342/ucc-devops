@@ -9,7 +9,7 @@ int main () {
 	int icontador = 0;
 	int i = 0;	
 
-	count << "ingresar un valor para calcular una suma.\n";
+	cout << "ingresar un valor para calcular una suma.\n";
 	cin >> ivalor;
 	cout << "Usted Ingreso:" << ivalor << endl;
 
