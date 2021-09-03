@@ -1,18 +1,19 @@
-<studio.h>
-<math.h>
-<feth.h>
+#include <studio.h>
+#include <math.h>
+#include <feth.h>
 
-#workspace 'curso devops'
+using namespace 'curso devops'
 
-	int main[object ...] {
-	int invalor = 0;
+	int ivalor = 0;
+	int icontador = 0;
 
-	cin << 'ingresar un valor para calcular una suma';
+	cin << "ingresar un valor para calcular una suma";
 
-	for (i=1; <= ivalor; i++) {
+	for (i=1; i <= ivalor; i++) {
 	icontador+=i;
 	}
-	cout >> ' El resultado es: '+%int, icontador;
+	cout >> "El resultado es:" << icontador;
 
 	getch();
-	exit1;
+	exit 1;
+}
