@@ -30,14 +30,15 @@ int main ()
                         cout<<"El area del circulo es: "<<3.1416*(radio*radio);
                         break;
 	}
-        cout<< "\n1";
-        cout<< "\+----------------------------------------------------------------------+n1";
-        cout<< "\|									|n1";
-        cout<< "\|                                                                      |n1";
-        cout<< "\|     	PROGRAMA PARA CALCULAR EL AREA DE UNA FIGURA GEOMETRICA		|n1";
-        cout<< "\|         		REALIZADO POR: MIGUEL GALINDO			|n1";
-        cout<< "\|                                                                      |n1";
-        cout<< "\|                                                                      |n1";
-        cout<< "\+----------------------------------------------------------------------+n1";
+        cout<< "\n";
+        cout<< "\+----------------------------------------------------------------------+\n";
+        cout<< "\|									|\n";
+        cout<< "\|                                                                      |\n";
+        cout<< "\|     	PROGRAMA PARA CALCULAR EL AREA DE UNA FIGURA GEOMETRICA		|\n";
+        cout<< "\|         		REALIZADO POR: MIGUEL GALINDO			|\n";
+        cout<< "\|                                                                      |\n";
+        cout<< "\|                                                                      |\n";
+        cout<< "\+----------------------------------------------------------------------+\n";
+	cout<< "\n"
 return 0;
 }
