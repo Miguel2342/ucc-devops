@@ -18,3 +18,10 @@ int main ()
                         cin>>lado;
                         cout<<" El area del cuadrado es: "<<lado*lado;
                         break;
+
+                case 2 :cout<<" Ingrese la base del triangulo\n";
+                        cin>>base;
+                        cout<<"Ingrese la Altura del Triangulo:\n ";
+                        cin>>altura;
+                        cout<<"El area del teiangulo es: "<<base*altura/2;
+                        break;
