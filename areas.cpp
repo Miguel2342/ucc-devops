@@ -25,3 +25,9 @@ int main ()
                         cin>>altura;
                         cout<<"El area del teiangulo es: "<<base*altura/2;
                         break;
+ 		case 3 :cout<<" Ingrese el radio del circulo\n";
+                        cin>>radio;
+                        cout<<"El area del circulo es: "<<3.1416*(radio*radio);
+                        break;
+	}
+        cout<< "\n1";
