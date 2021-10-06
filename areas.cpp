@@ -31,14 +31,14 @@ int main ()
                         break;
 	}
         cout <<"\n";
-        cout <<"\+----------------------------------------------------------------------+\n";
-        cout <<"\|									|\n";
-        cout <<"\|                                                                      |\n";
-        cout <<"\|     	PROGRAMA PARA CALCULAR EL AREA DE UNA FIGURA GEOMETRICA		|\n";
-        cout <<"\|         		REALIZADO POR: MIGUEL GALINDO			|\n";
-        cout <<"\|                                                                      |\n";
-        cout <<"\|                                                                      |\n";
-        cout <<"\+----------------------------------------------------------------------+\n";
+        cout <<"+-----------------------------------------------------------------------+\n";
+        cout <<"|									|\n";
+        cout <<"|                                                                       |\n";
+        cout <<"|     	PROGRAMA PARA CALCULAR EL AREA DE UNA FIGURA GEOMETRICA		|\n";
+        cout <<"|         		REALIZADO POR: MIGUEL GALINDO			|\n";
+        cout <<"|                                                                       |\n";
+        cout <<"|                                                                       |\n";
+        cout <<"+----------------------------------------------------------------------+\n";
 	cout <<"\n";
 return 0;
 }
