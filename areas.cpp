@@ -23,7 +23,7 @@ int main ()
                         cin>>base;
                         cout<<"Ingrese la Altura del Triangulo:\n ";
                         cin>>altura;
-                        cout<<"El area del teiangulo es: "<<base*altura/2;
+                        cout<<"El area del triangulo es: "<<base*altura/2;
                         break;
  		case 3 :cout<<" Ingrese el radio del circulo\n";
                         cin>>radio;
