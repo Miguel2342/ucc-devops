@@ -13,3 +13,8 @@ int main ()
         cin>>   op ;
         int lado,base,altura,radio;
         switch(op)
+        {
+                case 1 :cout<<"ingrese el lado del cuadrado\n";
+                        cin>>lado;
+                        cout<<" El area del cuadrado es: "<<lado*lado;
+                        break;
