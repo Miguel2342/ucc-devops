@@ -75,5 +75,17 @@ int main() {
             cout << "\n";
 
 	    vf_area = vi_base * vi_base;
+
             break;
 	}
+
+	cout << " La area es => " << vf_area << endl;
+	raiz = sqrt(vf_area);
+        cout<<" la raiz cuadra de " << vf_area<< " es: " << raiz;
+	cout<<"\n";
+
+	//Archivo Funcion
+	//a vf_area calcular raiz cuadrada en una variable e imprimir el resultado
+
+	return 0;
+}
